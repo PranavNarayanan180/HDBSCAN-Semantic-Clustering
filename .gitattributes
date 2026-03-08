@@ -1,0 +1,2 @@
+chroma_db/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
+models/umap_10.pkl filter=lfs diff=lfs merge=lfs -text
